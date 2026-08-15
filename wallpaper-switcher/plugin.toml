@@ -12,3 +12,7 @@ dependencies = []
 [[widget]]
 id = "switch"
 entry = "widget.luau"
+
+[[shortcut]]
+id = "switch-shortcut"
+entry = "shortcut.luau"
