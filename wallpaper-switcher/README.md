@@ -18,7 +18,3 @@ No external dependencies.
 ## Usage
 
 Add the widget to bar using Noctalia GUI, click on the widget to switch wallpaper.
-
-```sh
-noctalia msg panel-toggle kavya-nama/wallpaper-switcher:switch
-```
