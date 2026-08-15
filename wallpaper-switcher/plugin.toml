@@ -6,7 +6,7 @@ author = "kavya-nama"
 license = "MIT"
 icon = "image"
 description = "Switch to the next wallpaper from a bar widget."
-tags = ["bar", "wallpaper"]
+tags = ["bar", "shortcut", "wallpaper"]
 dependencies = []
 
 [[widget]]
