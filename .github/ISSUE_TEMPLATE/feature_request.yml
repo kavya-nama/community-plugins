@@ -33,6 +33,7 @@ body:
         - battery-graph
         - battery-threshold
         - battery-widget
+        - bazaarsearch
         - bookmarks
         - calculator
         - cat
@@ -87,6 +88,7 @@ body:
         - obsidian
         - opencode-companion
         - opnsense
+        - palette-creator
         - pass
         - phone-connect
         - pomodoro
