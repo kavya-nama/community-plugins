@@ -51,6 +51,7 @@ body:
         - file-search
         - game-launcher
         - gamer-mode
+        - github-prs
         - gocryptfs
         - godot-provider
         - gslapper
@@ -117,6 +118,7 @@ body:
         - upbeat
         - voxtype
         - w-engine
+        - wallpaper-switcher
         - web-launcher
         - wl-screen-mirror
         - zed-provider
